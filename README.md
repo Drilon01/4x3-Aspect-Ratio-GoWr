@@ -2,6 +2,12 @@
 
 True 4:3 for **God of War Ragnarök (PC, Steam)**: no black bars and no stretching.
 
+## Download
+
+**[⬇ Download the latest release](https://github.com/Drilon01/4x3-Aspect-Ratio-GoWr/releases/latest)**: get
+`GoWR-4x3-Patch-main.zip` under *Assets*. It contains the patcher, the undo tool,
+a step-by-step guide and the license.
+
 ## The problem
 
 In *Auto* mode the game snaps the screen to the nearest entry of a built-in
