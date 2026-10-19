@@ -89,7 +89,7 @@ released binaries byte for byte:
 
 ## License
 
-© 2026 DR Films. Licensed under
+© 2026 Driloni. Licensed under
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 - ✅ You may use, share and modify this work.
