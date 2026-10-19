@@ -1,7 +1,7 @@
 /*
  * GoWR 4:3 Patcher
  * ----------------
- * Copyright (c) 2026 DR Films - licensed under CC BY-NC-SA 4.0
+ * Copyright (c) 2026 Driloni - licensed under CC BY-NC-SA 4.0
  * https://creativecommons.org/licenses/by-nc-sa/4.0/  (see LICENSE)
  *
  * God of War Ragnarok snaps the window's aspect ratio (in "Auto" mode) to the
