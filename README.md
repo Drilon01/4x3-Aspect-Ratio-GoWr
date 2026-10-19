@@ -93,7 +93,7 @@ released binaries byte for byte:
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 - ✅ You may use, share and modify this work.
-- ✅ **Credit required.** Name DR Films as the original author and link back here.
+- ✅ **Credit required.** Name Driloni as the original author and link back here.
   Don't present this work, or a modified version of it, as your own.
 - ❌ **No commercial use.** Don't sell it, paywall it or bundle it into a paid product.
 - 🔁 **Share-alike.** Modified versions must be released under the same license.
